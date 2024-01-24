@@ -5,9 +5,9 @@ This Next.js project is designed to showcase my skills, projects, and experience
 
 Overview
 
-Live Site: https://portfolio-one-iota-64.vercel.app/
+# Live Site: https://portfolio-one-iota-64.vercel.app/
 
-Built with:
+# Built with:
 
 Next.js - React framework for building web applications.
 
@@ -15,7 +15,7 @@ Tailwind CSS - Utility-first CSS framework.
 
 Framer Motion - Animation library for React.
 
-Features
+# Features
 
 Responsive Design: Ensures a seamless experience across various devices.
 
@@ -25,15 +25,15 @@ Skills Section: Displaying the technologies and skills I specialize in.
 
 Contact Form: Easy way to get in touch with me.
 
-Usage
+# Usage
 
 Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-portfolio.git
+# git clone https://github.com/your-username/your-portfolio.git
 
-Install dependencies:
+# Install dependencies:
 
 bash
 
@@ -43,7 +43,7 @@ cd your-portfolio
 
 npm install
 
-Run the development server:
+# Run the development server:
 
 bash
 
@@ -53,7 +53,7 @@ npm run dev
 
 Open http://localhost:3000 to view the portfolio locally.
 
-Customization
+# Customization
 
 Feel free to customize the content to suit your needs:
 
@@ -63,15 +63,15 @@ Modify the skills in the skills section.
 
 Adjust the contact form as needed.
 
-Deployment
+# Deployment
 
 Deploy your portfolio using platforms like Vercel or GitHub Pages.
 
-Contribution
+# Contribution
 
 If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
-License
+# License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
