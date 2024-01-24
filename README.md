@@ -1,5 +1,7 @@
 # Portfolio Website
-Welcome to my portfolio website! This Next.js project is designed to showcase my skills, projects, and experiences.
+Welcome to my portfolio website! 
+
+This Next.js project is designed to showcase my skills, projects, and experiences.
 
 Overview
 Live Site: https://portfolio-one-iota-64.vercel.app/
@@ -13,6 +15,7 @@ Project Showcase: Highlighting my key projects with descriptions and links.
 Skills Section: Displaying the technologies and skills I specialize in.
 Contact Form: Easy way to get in touch with me.
 Usage
+
 Clone the repository:
 
 bash
@@ -37,13 +40,16 @@ Feel free to customize the content to suit your needs:
 Update the projects in the projects section in index.js.
 Modify the skills in the skills section.
 Adjust the contact form as needed.
+
 Deployment
+
 Deploy your portfolio using platforms like Vercel or GitHub Pages.
 
 Contribution
 If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Thank you for visiting my portfolio! 🚀
